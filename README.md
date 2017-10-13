@@ -1,5 +1,7 @@
 # cocktail-balance dataset codebook
 
+The dataset contains dietary data and recepies of cocktails from the "Not Cocktail of the Week" collection on reddit. 
+
 - **name** \<*chr*\> Name of the cocktail
 - **abv** \<*dbl*\> Alcohol content (%)
 - **acid** \<*dbl*\> Acid content (?)
