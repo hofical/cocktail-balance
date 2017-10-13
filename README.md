@@ -1,6 +1,6 @@
 # cocktail-balance dataset codebook
 
-- name \<chr\> Name of the cocktail
+- *name* \<chr\> Name of the cocktail
 - abv \<dbl\> Alcohol content (%)
 - acid \<dbl\> Acid content (?)
 - sugar \<dbl\> Sugar content (?)
